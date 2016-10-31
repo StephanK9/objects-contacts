@@ -1,0 +1,12 @@
+#initial-hidden {
+  display: none;
+}
+
+.output-text {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.output-text:hover {
+  text-decoration: underline;
+}
